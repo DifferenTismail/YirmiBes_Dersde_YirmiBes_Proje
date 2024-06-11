@@ -1,0 +1,12 @@
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe.config
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.pdb
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.AssemblyReference.cache
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmOgrenciDetay.resources
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Properties.Resources.resources
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.GenerateResource.cache
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.exe
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.pdb
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmGiris.resources
+C:\cSharpDersleri\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.FrmOgretmenDetay.resources
