@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\cSharpDersleri\\Not_Kayit_Sistemi\\",
+  "WorkspaceRootPath": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\Not_Kayit_Sistemi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BA6E696-F896-40CD-8E17-7C1689FCB34D}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|c:\\csharpdersleri\\not_kayit_sistemi\\not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BA6E696-F896-40CD-8E17-7C1689FCB34D}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|c:\\csharpdersleri\\yirmibes_dersde_yirmibes_proje\\not_kayit_sistemi\\not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BA6E696-F896-40CD-8E17-7C1689FCB34D}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|solutionrelative:not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BA6E696-F896-40CD-8E17-7C1689FCB34D}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|c:\\csharpdersleri\\not_kayit_sistemi\\not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9BA6E696-F896-40CD-8E17-7C1689FCB34D}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\Not_Kayit_Sistemi\\not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9BA6E696-F896-40CD-8E17-7C1689FCB34D}|Not_Kayit_Sistemi\\Not_Kayit_Sistemi.csproj|solutionrelative:not_kayit_sistemi\\frmogretmendetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,22 +24,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmOgretmenDetay.cs",
-              "DocumentMoniker": "C:\\cSharpDersleri\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
+              "DocumentMoniker": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
               "RelativeDocumentMoniker": "Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
-              "ToolTip": "C:\\cSharpDersleri\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
+              "ToolTip": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
               "RelativeToolTip": "Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADgvw8AAAAJAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwD0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T05:59:57.225Z",
+              "WhenOpened": "2024-06-11T06:50:35.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmOgretmenDetay.cs [Design]",
-              "DocumentMoniker": "C:\\cSharpDersleri\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
+              "DocumentMoniker": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
               "RelativeDocumentMoniker": "Not_Kayit_Sistemi\\FrmOgretmenDetay.cs",
-              "ToolTip": "C:\\cSharpDersleri\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs [Design]",
+              "ToolTip": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\Not_Kayit_Sistemi\\Not_Kayit_Sistemi\\FrmOgretmenDetay.cs [Design]",
               "RelativeToolTip": "Not_Kayit_Sistemi\\FrmOgretmenDetay.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T05:56:24.484Z",
