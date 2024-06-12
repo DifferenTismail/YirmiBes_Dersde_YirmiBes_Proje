@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{662FEDD1-3EAE-4FF0-B0D0-498B7214E898}|DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics.csproj|c:\\csharpdersleri\\yirmibes_dersde_yirmibes_proje\\databased_party_election_graph_statistics\\databased_party_election_graph_statistics\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662FEDD1-3EAE-4FF0-B0D0-498B7214E898}|DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics.csproj|solutionrelative:databased_party_election_graph_statistics\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662FEDD1-3EAE-4FF0-B0D0-498B7214E898}|DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics.csproj|C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\databased_party_election_graph_statistics\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{662FEDD1-3EAE-4FF0-B0D0-498B7214E898}|DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics.csproj|solutionrelative:databased_party_election_graph_statistics\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662FEDD1-3EAE-4FF0-B0D0-498B7214E898}|DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics.csproj|C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\databased_party_election_graph_statistics\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662FEDD1-3EAE-4FF0-B0D0-498B7214E898}|DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics.csproj|solutionrelative:databased_party_election_graph_statistics\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662FEDD1-3EAE-4FF0-B0D0-498B7214E898}|DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics.csproj|C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\databased_party_election_graph_statistics\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{662FEDD1-3EAE-4FF0-B0D0-498B7214E898}|DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics.csproj|solutionrelative:databased_party_election_graph_statistics\\frmoygiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 358,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "DataBased_Party_Election_Graph_Statistics\\FrmGrafikler.cs",
+              "ToolTip": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics\\FrmGrafikler.cs",
+              "RelativeToolTip": "DataBased_Party_Election_Graph_Statistics\\FrmGrafikler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA+wCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:17:47.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmOyGiris.cs",
+              "DocumentMoniker": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics\\FrmOyGiris.cs",
+              "RelativeDocumentMoniker": "DataBased_Party_Election_Graph_Statistics\\FrmOyGiris.cs",
+              "ToolTip": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics\\FrmOyGiris.cs",
+              "RelativeToolTip": "DataBased_Party_Election_Graph_Statistics\\FrmOyGiris.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwBIAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:05:59.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGrafikler.cs [Design]",
+              "DocumentMoniker": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "DataBased_Party_Election_Graph_Statistics\\FrmGrafikler.cs",
+              "ToolTip": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics\\FrmGrafikler.cs [Design]",
+              "RelativeToolTip": "DataBased_Party_Election_Graph_Statistics\\FrmGrafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:57:09.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmOyGiris.cs [Design]",
+              "DocumentMoniker": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics\\FrmOyGiris.cs",
+              "RelativeDocumentMoniker": "DataBased_Party_Election_Graph_Statistics\\FrmOyGiris.cs",
+              "ToolTip": "C:\\cSharpDersleri\\YirmiBes_Dersde_YirmiBes_Proje\\DataBased_Party_Election_Graph_Statistics\\DataBased_Party_Election_Graph_Statistics\\FrmOyGiris.cs [Design]",
+              "RelativeToolTip": "DataBased_Party_Election_Graph_Statistics\\FrmOyGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:48:04.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
